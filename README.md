@@ -48,6 +48,11 @@ I like working close to the system: backend services, Linux environments, networ
 ![Arch](https://img.shields.io/badge/Arch-161b22?style=for-the-badge&logo=archlinux&logoColor=c9d1d9)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-21262d?style=for-the-badge&logo=raspberrypi&logoColor=c9d1d9)
+![Azure](https://img.shields.io/badge/Azure-21262d?style=for-the-badge&logo=microsoftazure&logoColor=c9d1d9)
+![IBM](https://img.shields.io/badge/IBM-21262d?style=for-the-badge&logo=ibm&logoColor=c9d1d9)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-21262d?style=for-the-badge&logo=cisco&logoColor=c9d1d9)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=c9d1d9)
+![Ollama](https://img.shields.io/badge/Ollama-21262d?style=for-the-badge&logo=ollama&logoColor=c9d1d9)
 ![Tailscale](https://img.shields.io/badge/Tailscale-21262d?style=for-the-badge&logo=tailscale&logoColor=c9d1d9)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-21262d?style=for-the-badge&logo=pihole&logoColor=c9d1d9)
 ![Neovim](https://img.shields.io/badge/Neovim-21262d?style=for-the-badge&logo=neovim&logoColor=c9d1d9)
@@ -77,26 +82,12 @@ security         : Google Cybersecurity Professional Certificate
 analytics        : IBM SkillsBuild Data Analytics
 ```
 
----
-
-## SIGNALS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AspenQlio&show_icons=true&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117" alt="Aspen GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspenQlio&layout=compact&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&bg_color=0d1117" alt="Aspen top languages" />
-
-</div>
-
----
-
 ## ENCRYPTED CONNECTION
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AspenQlio-0d1117?style=for-the-badge&logo=github&logoColor=f0f6fc)](https://github.com/AspenQlio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathias%20Arriagada-21262d?style=for-the-badge&logo=linkedin&logoColor=f0f6fc)](https://linkedin.com/in/mathias-arriagada-zurita-037460290)
-[![Email](https://img.shields.io/badge/Email-contact-30363d?style=for-the-badge&logo=gmail&logoColor=f0f6fc)](mailto:mathias.arriagada.21@email.com)
 
 </div>
 
