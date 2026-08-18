@@ -2,7 +2,7 @@
 
 Soy estudiante de Ingenieria en Computacion e Informatica en Santiago, Chile. Me interesa el desarrollo de software, la infraestructura Linux, las redes, el analisis de datos y la ciberseguridad aplicada.
 
-Me gusta construir proyectos que resuelvan problemas concretos, documentar lo que aprendo y mantener configuraciones reproducibles para mi entorno de trabajo.
+Me gusta construir proyectos que resuelvan problemas concretos, documentar lo que aprendo y mantener configuraciones reproducibles para mi entorno de trabajo. Este perfil resume mi trabajo publico, mis laboratorios y mi avance tecnico.
 
 ## En que estoy trabajando
 
