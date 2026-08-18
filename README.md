@@ -1,55 +1,103 @@
-# Hola, soy Mathias Arriagada
+<div align="center">
 
-Soy estudiante de Ingenieria en Computacion e Informatica en Santiago, Chile. Me interesa el desarrollo de software, la infraestructura Linux, las redes, el analisis de datos y la ciberseguridad aplicada.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:30363d,100:8b949e&section=header&text=ASPEN&fontColor=f0f6fc&fontSize=42&fontAlignY=36&animation=fadeIn" alt="Aspen header" />
 
-Me gusta construir proyectos que resuelvan problemas concretos, documentar lo que aprendo y mantener configuraciones reproducibles para mi entorno de trabajo. Este perfil resume mi trabajo publico, mis laboratorios y mi avance tecnico.
+# Hi, my name is Aspen
 
-## En que estoy trabajando
+`computing student` · `linux operator` · `backend builder` · `network lab enjoyer`
 
-- Gestor de contrasenas self-hosted con arquitectura Zero-Knowledge.
-- Laboratorios personales con Linux, Raspberry Pi, DNS, VPN y Tailscale.
-- Automatizacion de entorno Arch Linux con Hyprland, Zsh y Neovim.
-- Formacion continua en redes, analisis de datos y ciberseguridad.
+![Status](https://img.shields.io/badge/status-active-2f3338?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/focus-systems%20%2B%20security-6e7681?style=for-the-badge&labelColor=161b22)
+![Location](https://img.shields.io/badge/base-santiago%2C%20chile-8b949e?style=for-the-badge&labelColor=21262d)
 
-## Stack tecnico
+</div>
 
-**Lenguajes:** Python, C, C++, Java, SQL, Bash  
-**Backend:** FastAPI, Pydantic, PostgreSQL, SQLite, APIs REST  
-**Datos:** SQL, fundamentos de analisis de datos, Power BI  
-**Sistemas y redes:** Linux, Arch Linux, Raspberry Pi, DNS, VPN, SSH, Tailscale, Pi-hole  
-**Seguridad:** cifrado local, arquitectura Zero-Knowledge, hardening basico, redes seguras  
-**Herramientas:** Git, GitHub, Bash, Neovim, entornos Linux
+---
 
-## Proyectos destacados
+## SYSTEM PROFILE
 
-### Vault Project
+```text
+operator   : Aspen
+identity   : Mathias Arriagada
+base       : Santiago, Chile
+role       : Computer and Informatics Engineering student
+interests  : software, Linux, data, networks, cybersecurity
+mode       : building real projects, documenting labs, improving every week
+```
 
-[vault-project](https://github.com/AspenQlio/vault-project)
+I like working close to the system: backend services, Linux environments, network labs, self-hosted tools, and small utilities that solve practical problems.
 
-Gestor de contrasenas self-hosted con enfoque Zero-Knowledge. Combina cliente en Python, nucleo criptografico en C con Libsodium, backend FastAPI, almacenamiento local SQLite y sincronizacion selectiva con PostgreSQL.
+---
 
-### Pi-hole + Tailscale Adblock
+## TECH INTERFACE
 
-[pihole-tailscale-adblock](https://github.com/AspenQlio/pihole-tailscale-adblock)
+<div align="center">
 
-Documentacion de una Raspberry Pi configurada como servidor DNS con Pi-hole, integrada con Tailscale para extender bloqueo de publicidad y rastreo dentro y fuera de la red local.
+![Python](https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python&logoColor=c9d1d9)
+![C](https://img.shields.io/badge/C-111820?style=for-the-badge&logo=c&logoColor=c9d1d9)
+![C++](https://img.shields.io/badge/C++-111820?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9)
+![Java](https://img.shields.io/badge/Java-111820?style=for-the-badge&logo=openjdk&logoColor=c9d1d9)
+![SQL](https://img.shields.io/badge/SQL-111820?style=for-the-badge&logo=postgresql&logoColor=c9d1d9)
+![Bash](https://img.shields.io/badge/Bash-111820?style=for-the-badge&logo=gnubash&logoColor=c9d1d9)
 
-### My Dotfiles
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=c9d1d9)
+![Pydantic](https://img.shields.io/badge/Pydantic-161b22?style=for-the-badge&logo=pydantic&logoColor=c9d1d9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=c9d1d9)
+![SQLite](https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=c9d1d9)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=c9d1d9)
+![Arch](https://img.shields.io/badge/Arch-161b22?style=for-the-badge&logo=archlinux&logoColor=c9d1d9)
 
-[My-dotfiles](https://github.com/AspenQlio/My-dotfiles)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-21262d?style=for-the-badge&logo=raspberrypi&logoColor=c9d1d9)
+![Tailscale](https://img.shields.io/badge/Tailscale-21262d?style=for-the-badge&logo=tailscale&logoColor=c9d1d9)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-21262d?style=for-the-badge&logo=pihole&logoColor=c9d1d9)
+![Neovim](https://img.shields.io/badge/Neovim-21262d?style=for-the-badge&logo=neovim&logoColor=c9d1d9)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=c9d1d9)
 
-Configuraciones personales para Arch Linux, Hyprland, terminal, Zsh, Neovim, Waybar, Rofi y Kitty. El objetivo es mantener un entorno restaurable, ordenado y sin credenciales.
+</div>
 
-## Actualmente aprendiendo
+---
 
-- CCNA: Introduction to Networks.
-- CCNA: Enterprise Networking, Security, and Automation.
-- Google Data Analytics Professional Certificate.
-- Google Cybersecurity Professional Certificate.
-- IBM SkillsBuild Data Analytics.
+## ACTIVE MISSIONS
 
-## Contacto
+| Project | Classification | Stack | Status |
+|---|---|---|---|
+| [`vault-project`](https://github.com/AspenQlio/vault-project) | zero-knowledge password manager | Python, C, FastAPI, SQLite, PostgreSQL | building |
+| [`pihole-tailscale-adblock`](https://github.com/AspenQlio/pihole-tailscale-adblock) | DNS + VPN home lab documentation | Raspberry Pi, Pi-hole, Tailscale, Linux | documented |
+| [`My-dotfiles`](https://github.com/AspenQlio/My-dotfiles) | reproducible Linux workstation | Arch, Hyprland, Zsh, Neovim | maintained |
 
-- LinkedIn: [mathias-arriagada-zurita-037460290](https://linkedin.com/in/mathias-arriagada-zurita-037460290)
-- GitHub: [AspenQlio](https://github.com/AspenQlio)
-- Email: mathias.arriagada.21@email.com
+---
+
+## CURRENT TRAINING
+
+```text
+networking       : CCNA Introduction to Networks
+networking       : CCNA Enterprise Networking, Security, and Automation
+data             : Google Data Analytics Professional Certificate
+security         : Google Cybersecurity Professional Certificate
+analytics        : IBM SkillsBuild Data Analytics
+```
+
+---
+
+## SIGNALS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AspenQlio&show_icons=true&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117" alt="Aspen GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspenQlio&layout=compact&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&bg_color=0d1117" alt="Aspen top languages" />
+
+</div>
+
+---
+
+## ENCRYPTED CONNECTION
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AspenQlio-0d1117?style=for-the-badge&logo=github&logoColor=f0f6fc)](https://github.com/AspenQlio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathias%20Arriagada-21262d?style=for-the-badge&logo=linkedin&logoColor=f0f6fc)](https://linkedin.com/in/mathias-arriagada-zurita-037460290)
+[![Email](https://img.shields.io/badge/Email-contact-30363d?style=for-the-badge&logo=gmail&logoColor=f0f6fc)](mailto:mathias.arriagada.21@email.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:8b949e,50:30363d,100:0d1117&section=footer" alt="Aspen footer" />
