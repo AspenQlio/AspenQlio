@@ -1,4 +1,6 @@
 # Mathias Arriagada
+
+> **[Español] → La documentación completa, con instalación paso a paso y los errores que me encontré, está en [README.es.md](README.es.md).**
 **Backend, AI Agents, Data & Infrastructure Security**
 
 I am a software engineer focused on building resilient backend systems, intelligent AI agent architectures, and secure local infrastructure. My approach favors strict typing, zero-knowledge architectural principles, and deterministic testing over hype.
