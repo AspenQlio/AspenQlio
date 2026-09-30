@@ -1,6 +1,3 @@
-> **English:** A condensed summary of this project is available in [README.md](README.md).
-> This is the complete version, with step-by-step installation and the problems I hit along the way.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:30363d,100:8b949e&section=header&text=ASPEN&fontColor=f0f6fc&fontSize=42&fontAlignY=36&animation=fadeIn" alt="Aspen header" />
