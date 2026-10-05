@@ -76,8 +76,27 @@ I like working close to the system: backend services, Linux environments, networ
 
 ## ACTIVE MISSIONS
 
-| Project | Classification | Stack | Status |
-|---|---|---|---|
+### 💻 Dev & AI
+| Project | Description | Stack |
+|---|---|---|
+| [`yoink-it`](https://github.com/AspenQlio/yoink-it) | Mobile Media Extractor App | Kotlin, React Native, yt-dlp |
+| [`ollama-whatsapp`](https://github.com/AspenQlio/ollama-whatsapp-boilerplate) | Local LLM bridge to WhatsApp | Python, Ollama |
+| [`layered-memory`](https://github.com/AspenQlio/layered-memory) | Layered memory architecture for AI agents | Python |
+| [`yt-to-spotify`](https://github.com/AspenQlio/yt-to-spotify) | YouTube to Spotify playlist migration tool | Python |
+| [`tts-quality-gate`](https://github.com/AspenQlio/tts-quality-gate) | TTS models fine-tuning evaluator | Python |
+| [`vault-project`](https://github.com/AspenQlio/vault-project) | Zero-knowledge password manager | Python, FastAPI, PostgreSQL |
+
+### 🛡️ Infra & Security
+| Project | Description | Stack |
+|---|---|---|
+| [`homelab-dash`](https://github.com/AspenQlio/homelab-dash) | Homelab infrastructure & services dashboard | JavaScript |
+| [`homelab-hardening-scanner`](https://github.com/AspenQlio/homelab-hardening-scanner) | Automated local network security auditor | Python |
+| [`aur-sentinel`](https://github.com/AspenQlio/aur-sentinel) | Arch Linux AUR package update monitor | Python |
+| [`pihole-tailscale`](https://github.com/AspenQlio/pihole-tailscale-adblock) | DNS + VPN home lab documentation | Raspberry Pi, Pi-hole, Tailscale |
+| [`raspberry-pi-cluster`](https://github.com/AspenQlio/raspberry-pi-cluster-for-dummies) | Practical 2-node Homelab guide | Linux, Networking |
+| [`My-dotfiles`](https://github.com/AspenQlio/My-dotfiles) | Reproducible Linux workstation configs | Arch, Hyprland, Zsh, Neovim |
+
+---|---|---|---|
 | [`vault-project`](https://github.com/AspenQlio/vault-project) | zero-knowledge password manager | Python, C, FastAPI, SQLite, PostgreSQL | building |
 | [`pihole-tailscale-adblock`](https://github.com/AspenQlio/pihole-tailscale-adblock) | DNS + VPN home lab documentation | Raspberry Pi, Pi-hole, Tailscale, Linux | documented |
 | [`My-dotfiles`](https://github.com/AspenQlio/My-dotfiles) | reproducible Linux workstation | Arch, Hyprland, Zsh, Neovim | maintained |
