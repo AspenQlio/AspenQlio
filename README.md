@@ -62,21 +62,11 @@ I like working close to the system: backend services, Linux environments, networ
 
 ---
 
-## GITHUB METRICS
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AspenQlio&theme=dark&hide_border=true&background=0d1117&ring=30363d&fire=8b949e&currStreakLabel=8b949e)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AspenQlio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
 
 ## ACTIVE MISSIONS
 
-### 💻 Dev & AI
+### Dev & AI
 | Project | Description | Stack |
 |---|---|---|
 | [`yoink-it`](https://github.com/AspenQlio/yoink-it) | Mobile Media Extractor App | Kotlin, React Native, yt-dlp |
@@ -86,7 +76,7 @@ I like working close to the system: backend services, Linux environments, networ
 | [`tts-quality-gate`](https://github.com/AspenQlio/tts-quality-gate) | TTS models fine-tuning evaluator | Python |
 | [`vault-project`](https://github.com/AspenQlio/vault-project) | Zero-knowledge password manager | Python, FastAPI, PostgreSQL |
 
-### 🛡️ Infra & Security
+### Infra & Security
 | Project | Description | Stack |
 |---|---|---|
 | [`homelab-dash`](https://github.com/AspenQlio/homelab-dash) | Homelab infrastructure & services dashboard | JavaScript |
